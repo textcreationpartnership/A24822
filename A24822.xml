@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the behaviour, dying speeches, and execution of Mr. John Murphey, for high treason, and William May, John Sparcks, William Bishop, James Lewis, and Adam Foresith for robbery, piracy and felony, at the execution-dock on Wednesday the 25th of November, 1696</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24822</idno>
+            <idno type="STC">Wing A244</idno>
+            <idno type="STC">ESTC R1200</idno>
+            <idno type="EEBO-CITATION">11948112</idno>
+            <idno type="OCLC">ocm 11948112</idno>
+            <idno type="VID">51352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 46:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the behaviour, dying speeches, and execution of Mr. John Murphey, for high treason, and William May, John Sparcks, William Bishop, James Lewis, and Adam Foresith for robbery, piracy and felony, at the execution-dock on Wednesday the 25th of November, 1696</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Crownfield ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murphy, John, d. 1696.</term>
+               <term>Last words.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51352:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of the Behaviour, Dying Speeches, and Execution of Mr. <hi>John Murphey,</hi> for <hi>High-Treaſon;</hi> and <hi>William May, John Sparcks, William Biſhop, James Lewis,</hi> and <hi>Adam Foreſith,</hi> for <hi>Robbe<g ref="char:EOLhyphen"/>ry, Piracy</hi> and <hi>Felony;</hi> at the <hi>Execution-Dock:</hi> On <hi>Wedneſday</hi> the 25th of <hi>November,</hi> 1696.</head>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <p>TO give my Reader firſt a ſhort Account of the particular Crimes that brought theſe Unhappy Criminals to their untimely End; Theſe five laſt <hi>Pyrates</hi> are ſome of the Crew of the Famous, or rather In<g ref="char:EOLhyphen"/>famous Captain <hi>Every,</hi> that committed thoſe crying and bloody Cruelties, in the <hi>Eaſt-Indies,</hi> upon the Coaſt of <hi>Perſia,</hi> and the Kingdom of the <hi>Great Mogol;</hi> theſe moſt Barbarous and Inhumane Wretches, having firſt run away with one of his Majeſties Men of War, call'd the <hi>Charles,</hi> and diſ<g ref="char:EOLhyphen"/>miſſed all that innocent part of the Ships Crew that refuſed to engage in their deſperate Deſigns, immediately ſet out as <hi>Pyrares,</hi> make their common Prey upon Friends and Foes, and rob all Mankind. Accordingly they perpetrated thoſe unheard of Barbarities, as ſuch plundering and rifling all the Veſſels they met with, Raviſhing and Deflowering the Virgins and Women, and then turning them out naked, to ſtarve upon ſhore, amongſt Rocks and Deſarts. But above all, nothing was ſo horrid, as their Surprizing a Ship of the King of the <hi>Indies,</hi> where they firſt took away an infinite Treaſure, moſt inhumanely Raviſht a Young Princeſs, and the teſt of her Female Train, and afterwards left the Ship diſarm'd and diſabled, floating as a wreck upon the Sea, with near a 1000 Souls on Board, thereby expoſed to inevitable Starving.</p>
+            <p>This unparallel'd Outrage greatly prejudiced the Honourable <hi>Eaſt India</hi> Company, the <hi>Grand Mogul</hi> demanding Satisfaction of them for this Depre<g ref="char:EOLhyphen"/>duction and Villany.</p>
+            <p>After publick Proclamation made for their Apprehenſion, ſeveral of them were accordingly taken, and <hi>William May, Joſeph Dawſon, John Sparcks, Wil<g ref="char:EOLhyphen"/>liam Biſhop,</hi> and <hi>James Lewis</hi> were brought upon their Tryals on the 19th of <hi>October,</hi> before the Honourable Sir <hi>Charles Hedges, Judge</hi> of the <hi>High Court</hi> of <hi>Admiralty,</hi> together with the Lord <hi>Chef Juſtice Holt,</hi> &amp;c. At which time, notwithſtanding <hi>Joſeph Dawſon</hi> frankly and candidly acknowledge his Crimes and pleaded Guilty; however the ſway (much to Admitation) whither out of Tenderneſs, in relation to not full enough Evidence, or what other un<g ref="char:EOLhyphen"/>known Reaſon, acquited them. Nevertheleſs they were afterwards brought upon a new Tryal, and ſuch full and ample Teſtimony came againſt them; as that they received the juſt Sentence of Death, and this ſuffered accordingly.</p>
+            <p>Capt. <hi>Vaughan</hi> and <hi>John Murphey,</hi> though their Crimes were much of the ſame Nature, <hi>viz.</hi> For their Rapineſs upon the Seas, yet their Arraignment lay higher, <hi>viz.</hi> For no leſs a Crime then <hi>Treaſon;</hi> as that being N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive Subj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts to the King, contrary to their Allegiance, they had join'd w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> our <hi>French</hi> Enemies, and committed Hoſtilities upon the Subjects of <hi>England.</hi> Upon their Tryals it appeared, that Captain <hi>Vaughan</hi> had received a Com<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> from the <hi>French</hi> King, as Captain of a <hi>Privateer;</hi> and that he with oth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>val
+<pb facs="tcp:51352:2"/>Forces had attacqued and taken his Majeſties Ship the <hi>Diamand.</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and carried her Price into <hi>France,</hi> for which Fact, both he and <hi>Murp<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> re<g ref="char:EOLhyphen"/>ceived Sentence of Death, as Guilty of <hi>High Treaſon.</hi>
+            </p>
+            <p>After their Tryals and Conviction, though they appear'd very reſolute be<g ref="char:EOLhyphen"/>fore, yet upon the certainty of their approaching Death, they behaved them<g ref="char:EOLhyphen"/>ſelves with a little more modeſty, and ſome ſigns of a good preparation for another World. They received the Favour of a conſiderable Time to prepare for Death, and being this 25th of <hi>November</hi> all convey'd, (<hi>Murphey</hi> being drawn on a Sledge) to the Execution Dock, between the Hours of three and four, they were all Executed, Captain <hi>Vaughan</hi> only being Reſpited from the pre<g ref="char:EOLhyphen"/>ſent Execution to Suffer at <hi>Tyburn.</hi>
+            </p>
+            <p>
+               <hi>Murphey</hi> appeared the moſt undaunted, though to give them their due they ſeem'd to be all Maſters of as much Courage as was poſſible, at the ſight of ſo infamous a Death before their Eyes. <hi>Murphey</hi> being an <hi>Iriſhman,</hi> and a ſtrong Zealot for the late King and the <hi>French Intereſt,</hi> ſeem'd to have little Regret againſt his Cauſe, which he ſeem'd to adhere to, to the laſt, but rather maimed the Misfortunes of his Life, and other private Sins, which he thought might in a high meaſure bring him to this fatal End, as judging thoſe Errours of his wicked Life more capital then the Crime for which he dyed.</p>
+            <p>
+               <hi>William May,</hi> was much inclined to Penitence, and expreſt ſome ſenſe of his ſhameful End, and of the more ſhameful Crimes that brought him to that ignominious Death.</p>
+            <p>
+               <hi>John Sparcks,</hi> likewiſe expreſt a due ſenſe of his wicked Life, in particular to the moſt horrid Barbarities that he had committed, which though upon the Perſons of Heathens and Inſidels, ſuch as the foremention'd poor <hi>Indians,</hi> ſo inhumanly rifled and treated ſo unmercifully; declaring, that his Eyes were now open to his Crimes, and that he juſtly ſuffer'd Death for ſuch Inhumanity, much more then his Injuſtice and Robbery, in Stealing and Running away with one of his Majeſties Ships, which was of the two his leſſer concern.</p>
+            <p>
+               <hi>William Biſhop,</hi> ſaid but little, but own'd himſelf as deep a ſinner as the others; and that his three years Roving upon the Seas, was now a very Me<g ref="char:EOLhyphen"/>lancholy Thought to his Soul, and ſo much the more to conſider the Brutality of his Crimes, as being one of a more Barbarous Crew than the Generality of Offenders of that kind.</p>
+            <p>
+               <hi>Adam Foreſah,</hi> was very Penitent, and truly own'd that beſides the Guilt of his Offences, and the preſent capital Puniſhment, his Wicked Life, atten<g ref="char:EOLhyphen"/>ded with the many Hardſhips and Hazards he had undergone in his Robberies, was little leſs than a Puniſhment; for wickedneſs (let it proſper never ſomuch) brings great many troubles and afflictions along with it.</p>
+            <p>
+               <hi>James Lewis</hi> acknowledged his many Tranſgreſſions, and particularly the Offence for which they all dyed. In fine, they had all the Favour at the place of Execution, of giving them time to offer up their neceſſary Prayers to Al<g ref="char:EOLhyphen"/>mighty God: and then all ſuffer'd according to their Sentence.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>T. Crownfield,</hi> in <hi>Cheap-ſide,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
